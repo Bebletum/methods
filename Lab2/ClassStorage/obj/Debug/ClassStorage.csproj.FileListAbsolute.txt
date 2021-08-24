@@ -1,6 +1,0 @@
-D:\Users\Mike\Desktop\NewProject\lab2\Airlines\ClassStorage\bin\Debug\ClassStorage.dll
-D:\Users\Mike\Desktop\NewProject\lab2\Airlines\ClassStorage\bin\Debug\ClassStorage.pdb
-D:\Users\Mike\Desktop\NewProject\lab2\Airlines\ClassStorage\obj\Debug\ClassStorage.csproj.AssemblyReference.cache
-D:\Users\Mike\Desktop\NewProject\lab2\Airlines\ClassStorage\obj\Debug\ClassStorage.csproj.CoreCompileInputs.cache
-D:\Users\Mike\Desktop\NewProject\lab2\Airlines\ClassStorage\obj\Debug\ClassStorage.dll
-D:\Users\Mike\Desktop\NewProject\lab2\Airlines\ClassStorage\obj\Debug\ClassStorage.pdb
