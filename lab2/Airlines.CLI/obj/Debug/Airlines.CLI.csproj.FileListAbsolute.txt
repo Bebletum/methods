@@ -1,0 +1,14 @@
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\bin\Debug\Airlines.CLI.exe.config
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\bin\Debug\Airlines.CLI.exe
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\bin\Debug\Airlines.CLI.pdb
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\bin\Debug\Airlines.BLL.dll
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\bin\Debug\Airlines.Entities.dll
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\bin\Debug\Airlines.DAL.dll
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\bin\Debug\Airlines.BLL.pdb
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\bin\Debug\Airlines.Entities.pdb
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\bin\Debug\Airlines.DAL.pdb
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\obj\Debug\Airlines.CLI.csproj.AssemblyReference.cache
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\obj\Debug\Airlines.CLI.csproj.CoreCompileInputs.cache
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\obj\Debug\Airlines.CLI.csproj.CopyComplete
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\obj\Debug\Airlines.CLI.exe
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.CLI\obj\Debug\Airlines.CLI.pdb

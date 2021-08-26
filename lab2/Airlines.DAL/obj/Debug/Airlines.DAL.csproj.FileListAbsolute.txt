@@ -1,0 +1,9 @@
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.DAL\bin\Debug\Airlines.DAL.dll
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.DAL\bin\Debug\Airlines.DAL.pdb
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.DAL\bin\Debug\Airlines.Entities.dll
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.DAL\bin\Debug\Airlines.Entities.pdb
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.DAL\obj\Debug\Airlines.DAL.csproj.AssemblyReference.cache
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.DAL\obj\Debug\Airlines.DAL.csproj.CoreCompileInputs.cache
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.DAL\obj\Debug\Airlines.DAL.csproj.CopyComplete
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.DAL\obj\Debug\Airlines.DAL.dll
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.DAL\obj\Debug\Airlines.DAL.pdb

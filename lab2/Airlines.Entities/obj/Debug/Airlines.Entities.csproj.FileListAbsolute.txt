@@ -1,0 +1,6 @@
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.Entities\bin\Debug\Airlines.Entities.dll
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.Entities\bin\Debug\Airlines.Entities.pdb
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.Entities\obj\Debug\Airlines.Entities.csproj.AssemblyReference.cache
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.Entities\obj\Debug\Airlines.Entities.csproj.CoreCompileInputs.cache
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.Entities\obj\Debug\Airlines.Entities.dll
+D:\Users\Mike\Desktop\NewProject\lab2\Airlines\Airlines.Entities\obj\Debug\Airlines.Entities.pdb
